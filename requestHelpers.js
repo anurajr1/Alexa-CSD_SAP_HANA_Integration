@@ -3,6 +3,7 @@
 var request = require('request'); 
 
 // hosts for XSJS services 
+//this service endpoint is stopped, create a new service end point 
 var host = 'https://iccindiacsdsearchi321994trial.hanatrial.ondemand.com'; 
 var hostUnique = host + '/iqs/getBy_unique.xsjs'; 
 //var hostUnique_ByDate = host + '/iqs/getBy_uniqueByDate.xsjs'; 
