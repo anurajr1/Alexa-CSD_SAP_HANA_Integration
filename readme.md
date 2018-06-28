@@ -52,14 +52,8 @@
 
     No Dependencies<br /><br />
     
-
-
-
-node_modules folder:
-
-alexa-sdk 
-
-request 
+    
+    
 
 
 
