@@ -65,3 +65,5 @@ Choose the Wi-Fi called Amazon-XXX from the Wi-Fi List.
 Choose the Wi-Fi from the list and provide the Password. Device will get Connected.
 
 
+
+
