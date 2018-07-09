@@ -1,8 +1,8 @@
 ## Alexa - CSD - SAP_HANA Integration
   
 ## Alexa Setup
-    
-    If the setup is already done for the particular Wi-Fi Network, The Alexa device will automatically connect by its own.
+
+If the setup is already done for the particular Wi-Fi Network,The Alexa device will automatically connect by its own.
 For new connection, follow the steps.
 
 Note: Please create a Wi-Fi hotspot and connect. I tried connecting the device to “SAP-Coperate” and “SAP-Internet”, but it’s not working.
