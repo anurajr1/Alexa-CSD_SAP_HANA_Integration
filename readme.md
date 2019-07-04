@@ -9,7 +9,7 @@ Note: Please create a Wi-Fi hotspot and connect. I tried connecting the device t
 
 Step -1:
 Navigate to – https://alexa.amazon.com/spa/index.html
-![picture9](https://github.wdf.sap.corp/storage/user/21882/files/c463129a-7ac6-11e8-81db-447c1df6de6e)
+![picture9](https://user-images.githubusercontent.com/18279724/60642918-03828080-9e4f-11e9-903f-fbef65a0fd91.png)
 
 Step 2:
 Provide Username: your_mailid@sap.com
