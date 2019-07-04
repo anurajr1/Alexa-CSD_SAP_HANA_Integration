@@ -12,7 +12,7 @@ Navigate to – https://alexa.amazon.com/spa/index.html
 ![picture9](https://user-images.githubusercontent.com/18279724/60642918-03828080-9e4f-11e9-903f-fbef65a0fd91.png)
 
 Step 2:
-Provide Username: your_mailid@sap.com
+Provide Username: your_mailid@abc.com
 	Password: your_password
 
 
