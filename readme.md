@@ -1,5 +1,8 @@
 ## Alexa - CSD - SAP_HANA Integration
   
+Note:  This project only contents the Alexa part. Service part of the application you need to create in SCP(xsjs Service) and pass to request_handler.js
+  
+  
 ## Alexa Setup
 
 If the setup is already done for the particular Wi-Fi Network,The Alexa device will automatically connect by its own.
