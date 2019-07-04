@@ -5,8 +5,6 @@
 If the setup is already done for the particular Wi-Fi Network,The Alexa device will automatically connect by its own.
 For new connection, follow the steps.
 
-Note: Please create a Wi-Fi hotspot and connect. I tried connecting the device to “SAP-Coperate” and “SAP-Internet”, but it’s not working.
-
 Step -1:
 Navigate to – https://alexa.amazon.com/spa/index.html
 ![picture9](https://user-images.githubusercontent.com/18279724/60642918-03828080-9e4f-11e9-903f-fbef65a0fd91.png)
