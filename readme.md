@@ -33,33 +33,33 @@ Click on Setup a new Device
 Step 5:
 
 Choose Echo from the list
-![picture3](https://github.wdf.sap.corp/storage/user/21882/files/667ea7de-7ac6-11e8-84b2-1b57cb5d7f16)
+![picture3](https://user-images.githubusercontent.com/18279724/60642911-01b8bd00-9e4f-11e9-91a7-84ed318532c8.png)
 
 
 Step 6:
 
 Choose English(india) and Continue
-![picture4](https://github.wdf.sap.corp/storage/user/21882/files/66d538f6-7ac6-11e8-8379-16e025517c99)
+![picture4](https://user-images.githubusercontent.com/18279724/60642913-02515380-9e4f-11e9-83e3-3e6e3e493700.png)
 
 Step 7:
 
 Click on Connect to Wi-Fi
-![picture5](https://github.wdf.sap.corp/storage/user/21882/files/672d923a-7ac6-11e8-96cf-d0d3b17894c3)
+![picture5](https://user-images.githubusercontent.com/18279724/60642914-02515380-9e4f-11e9-90dc-4972d42492d9.png)
 
 Step 8:
 
 If Orange light is blinking, then proceed with Continue then follow Step 10 , otherwise Step 9
-![picture6](https://github.wdf.sap.corp/storage/user/21882/files/679c04d6-7ac6-11e8-9d04-b9eb87eee8fc)
+![picture6](https://user-images.githubusercontent.com/18279724/60642915-02e9ea00-9e4f-11e9-8062-8d932b1fa61a.png)
 
 Step 9:
 
 Press and hold the particular button for some time, then orange light will appear.
-![picture7](https://github.wdf.sap.corp/storage/user/21882/files/680ccc02-7ac6-11e8-9a35-99aff9568930)
+![picture7](https://user-images.githubusercontent.com/18279724/60642916-02e9ea00-9e4f-11e9-8056-f1e063d2d4aa.png)
 
 
 Step 10:
 Choose the Wi-Fi called Amazon-XXX from the Wi-Fi List.
-![picture8](https://github.wdf.sap.corp/storage/user/21882/files/68b529ce-7ac6-11e8-9f9e-f7613ae750b1)
+![picture8](https://user-images.githubusercontent.com/18279724/60642917-02e9ea00-9e4f-11e9-8ca0-bdbf0761abeb.png)
 
 
 Choose the Wi-Fi from the list and provide the Password. Device will get Connected.
