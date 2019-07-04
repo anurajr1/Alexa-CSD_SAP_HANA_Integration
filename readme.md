@@ -21,13 +21,13 @@ Step 3:
 Click on the Settings inside the Alexa Home page.
 
 
-![picture1](https://github.wdf.sap.corp/storage/user/21882/files/64fa4b16-7ac6-11e8-852f-00d3eec3b18d)
+![picture1](https://user-images.githubusercontent.com/18279724/60642908-01b8bd00-9e4f-11e9-8804-bf0afba40ef1.png)
 
 
 Step 4:
 
 Click on Setup a new Device
-![picture2](https://github.wdf.sap.corp/storage/user/21882/files/65a07d92-7ac6-11e8-98cd-0fa895915c4e)
+![picture2](https://user-images.githubusercontent.com/18279724/60642909-01b8bd00-9e4f-11e9-8d1d-44df7c9ca41c.png)
 
 
 Step 5:
